@@ -1,0 +1,10 @@
+__pycache__/ 
+.venv/ 
+.env 
+scraped_docs.jsonl 
+*.pyc 
+__pycache__/ 
+.venv/ 
+.env 
+scraped_docs.jsonl 
+*.pyc 
